@@ -1,7 +1,9 @@
 # UnknownLinksRedirectReferrer
  Unknown Links Redirect Referrer<br>
 
-https://alltechvoices.com/redirect?url=[PUTURLHERE]<br>
+    // Some comments
+    https://alltechvoices.com/redirect?url=[PUTURLHERE]<br>
+
 
 .htaccess code<br>
 RewriteEngine on<br>
