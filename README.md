@@ -8,7 +8,6 @@ RewriteEngine on<br>
 RewriteRule ^redirect$ redirect.html [NC]<br>
 
 Demo:<br>
- <br>
 <a href="https://alltechvoices.com/" title="alltechvoices.com">alltechvoices.com</a><br />
 <a href="https://alltechvoices.com/web?q=enterprise+data+management+solutions" title="Enterprise data management">Enterprise data management</a><br />
 		<a target='_blank' title='psoriosis treatment' href='https://alltechvoices.com/web?q=psoriosis+treatment'>psoriosis treatment</a>
