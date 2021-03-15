@@ -9,7 +9,7 @@ RewriteRule ^redirect$ redirect.html [NC]<br>
 
 Demo:<br>
 https://alltechvoices.com/web?q=enterprise+data+management+solutions <br>
-https://alltechvoices.com/
+https://alltechvoices.com/<br />
 		<a target='_blank' title='psoriosis treatment' href='https://alltechvoices.com/web?q=psoriosis+treatment'>psoriosis treatment</a>
 <br />		<a target='_blank' title='top 10 free web hosting no ads' href='https://alltechvoices.com/web?q=top+10+free+web+hosting+no+ads'>top 10 free web hosting no ads</a>
 <br />		<a target='_blank' title='college notes online' href='https://alltechvoices.com/web?q=college+notes+online'>college notes online</a>
