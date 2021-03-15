@@ -1,12 +1,12 @@
 # UnknownLinksRedirectReferrer
- Unknown Links Redirect Referrer
+ Unknown Links Redirect Referrer<br>
 
-https://alltechvoices.com/redirect?url=[PUT URL HERE]
+https://alltechvoices.com/redirect?url=[PUTURLHERE]<br>
 
-.htaccess code
-RewriteEngine on
-RewriteRule ^redirect$ redirect.html [NC]
+.htaccess code<br>
+RewriteEngine on<br>
+RewriteRule ^redirect$ redirect.html [NC]<br>
 
 Demo:<br>
-https://alltechvoices.com/web?q=enterprise+data+management+solutions
+https://alltechvoices.com/web?q=enterprise+data+management+solutions <br>
 https://alltechvoices.com/
