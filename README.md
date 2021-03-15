@@ -7,6 +7,6 @@ https://alltechvoices.com/redirect?url=[PUT URL HERE]
 RewriteEngine on
 RewriteRule ^redirect$ redirect.html [NC]
 
-Demo:
+Demo:<br>
 https://alltechvoices.com/web?q=enterprise+data+management+solutions
 https://alltechvoices.com/
