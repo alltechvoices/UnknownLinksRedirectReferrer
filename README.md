@@ -8,8 +8,9 @@ RewriteEngine on<br>
 RewriteRule ^redirect$ redirect.html [NC]<br>
 
 Demo:<br>
-https://alltechvoices.com/web?q=enterprise+data+management+solutions <br>
-https://alltechvoices.com/<br />
+ <br>
+<a href="https://alltechvoices.com/" title="alltechvoices.com">alltechvoices.com</a><br />
+<a href="https://alltechvoices.com/web?q=enterprise+data+management+solutions" title="Enterprise data management">Enterprise data management</a><br />
 		<a target='_blank' title='psoriosis treatment' href='https://alltechvoices.com/web?q=psoriosis+treatment'>psoriosis treatment</a>
 <br />		<a target='_blank' title='top 10 free web hosting no ads' href='https://alltechvoices.com/web?q=top+10+free+web+hosting+no+ads'>top 10 free web hosting no ads</a>
 <br />		<a target='_blank' title='icici lombard car insurance customer care' href='https://alltechvoices.com/web?q=icici+lombard+car+insurance+customer+care'>icici lombard car insurance customer care</a>
