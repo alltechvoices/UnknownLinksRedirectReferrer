@@ -4,8 +4,7 @@
     // Some comments
     https://alltechvoices.com/redirect?url=[PUTURLHERE]
 
-
-.htaccess code<br>
+    // htaccess code
 RewriteEngine on<br>
 RewriteRule ^redirect$ redirect.html [NC]<br>
 
