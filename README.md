@@ -2,7 +2,7 @@
  Unknown Links Redirect Referrer<br>
 
     // Some comments
-    https://alltechvoices.com/redirect?url=[PUTURLHERE]<br>
+    https://alltechvoices.com/redirect?url=[PUTURLHERE]
 
 
 .htaccess code<br>
